@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCbEJOXA9t+oB81anXu5NP/R/3FBclDRM40ohB4tLm0WEaHpBSGDdXpozc/c2IoRwy98zDbLoe4aG4D496GKNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzzz\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StarRailMod\\StarRailMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzzz\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

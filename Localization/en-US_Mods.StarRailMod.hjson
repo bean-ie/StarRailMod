@@ -1,0 +1,18 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	XuanyuanSword: {
+		DisplayName: Xuanyuan Sword
+		Tooltip: ""
+	}
+
+	SoulsteelSword: {
+		DisplayName: Soulsteel Sword
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	XuanyuanSwordSwing.DisplayName: Xuanyuan Sword Swing
+	SoulsteelSwordProjectile.DisplayName: Soulsteel Sword Projectile
+}

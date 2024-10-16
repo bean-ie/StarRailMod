@@ -1,0 +1,3 @@
+displayName = Star Rail Mod
+author = Beanie
+version = 0.1
